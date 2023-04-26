@@ -27,7 +27,7 @@ public class JogoAdivinhacao {
 			}
 		}
 		   if (numeroGerado != numeroDigitado) {
-			   System.out.println("Você não acertou! o número gerado é: " + numeroGerado);
+			   System.out.println("Você não acertou! o número gerado era o: " + numeroGerado);
 			   
 		   }
 		}
